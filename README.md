@@ -1,4 +1,4 @@
-# Weather-App
+# Weather App Code
 
 [Weather App Frontend](https://github.com/meganannerussell/weather-app-frontend)
 
